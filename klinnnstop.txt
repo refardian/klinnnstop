@@ -2,6 +2,6 @@ klinstop
 - navbar
 - jumbotron
 - service
-- testimoni
+- price list
 - root
 - footer
