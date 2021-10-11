@@ -5,5 +5,9 @@ fitur baru :
 
 
 
-fitur baru 2 :
-- tambah react.js
+fitur baru 1:
+- tambah gambar 
+- tambah sass
+
+
+
