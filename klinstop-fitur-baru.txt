@@ -6,5 +6,6 @@ fitur baru :
 
 fitur baru 1:
 - tambah gambar 
+- tambah sass
 
 
