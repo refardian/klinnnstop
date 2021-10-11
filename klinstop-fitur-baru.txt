@@ -1,0 +1,3 @@
+fitur baru :
+- menambah fitur jumbotron
+- menambah animasi pada jumbotron
